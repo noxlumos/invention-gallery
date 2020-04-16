@@ -1,18 +1,10 @@
 Zeynep Erdoğan 
-e2171577
 
 This app is deployed with Heroku -> https://inventions-gallery.herokuapp.com
 
 I also deployed a MongoDB Database on Stitch.
 
-for better user-interface I have used reactstrap library.
-
-if you have not added user, the login button will be inactive.
-
-when you add a new product, to be see it on the gallery you need to refresh the page.
-
-In gallery, All of the products are seen. You can only delete that is uploaded by you
-and only rate other users products.
+for better user-experience I have used reactstrap library.
 
 There are 2 different collections in my database. Users and Ratings.
 
